@@ -1,6 +1,6 @@
 {
   "features": {
-    "googleAuth": true,
+    "googleAuth": false,
     "signup": true,
     "login": true
   }
