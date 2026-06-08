@@ -1,0 +1,7 @@
+{
+  "features": {
+    "googleAuth": true,
+    "signup": true,
+    "login": true
+  }
+}
