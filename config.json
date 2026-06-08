@@ -2,6 +2,8 @@
   "features": {
     "googleAuth": false,
     "signup": true,
-    "login": true
+    "login": true,
+    "resetPassword": true,
+    "emailVerification": true
   }
 }
